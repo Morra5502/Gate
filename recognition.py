@@ -18,7 +18,7 @@ def recognize_license_plate(image):
         x, y, w, h = cv2.boundingRect(contour)
         aspect_ratio = w / float(h)
         if 2.0 <= aspect_ratio <= 9.0 and cv2.contourArea(contour) > 500:  # Соотношение сторон и минимальная площадь
-            filtered_contours.append(contour)
+            filtered_contours.append(contour) #test
 
     filtered_contours = sorted(filtered_contours, key=cv2.contourArea, reverse=True)[:10]
 
@@ -41,7 +41,7 @@ def recognize_license_plate(image):
         cv2.waitKey(1)
 
         # Добавлено: поддержка русского языка
-        raw_text = pytesseract.image_to_string(license_plate, config='--psm 8 -l rus')
+        raw_text = pytesseract.image_to_string(license_plate, config='--psm 8 -l rus tessedit_char_whitelist=АВЕКМНОРСТУХ1234567890') #УМОМ
 
         filtered_text = re.sub(r'[^А-Я0-9]', '', raw_text.upper())  # Оставляем только буквы и цифры
         return filtered_text.strip()
