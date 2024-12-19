@@ -1,6 +1,8 @@
 import cv2
 import pytesseract
 import re
+import numpy as np
+
 
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
@@ -10,7 +12,6 @@ def recognize_license_plate(image):
     blurred = cv2.GaussianBlur(gray, (5, 5), 0)  # Убираем шум
     edged = cv2.Canny(blurred, 30, 60)  # Выделяем контуры
 
-    # Находим контуры и фильтруем их по соотношению сторон и площади
     contours, _ = cv2.findContours(edged, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
     filtered_contours = []
 
@@ -18,7 +19,7 @@ def recognize_license_plate(image):
         x, y, w, h = cv2.boundingRect(contour)
         aspect_ratio = w / float(h)
         if 2.0 <= aspect_ratio <= 9.0 and cv2.contourArea(contour) > 500:  # Соотношение сторон и минимальная площадь
-            filtered_contours.append(contour) #test
+            filtered_contours.append(contour)
 
     filtered_contours = sorted(filtered_contours, key=cv2.contourArea, reverse=True)[:10]
 
@@ -41,8 +42,17 @@ def recognize_license_plate(image):
         cv2.waitKey(1)
 
         # Добавлено: поддержка русского языка
-        raw_text = pytesseract.image_to_string(license_plate, config='--psm 8 -l rus tessedit_char_whitelist=АВЕКМНОРСТУХ1234567890') #УМОМ
+        raw_text = pytesseract.image_to_string(license_plate, config='--psm 8 -l rus')
 
-        filtered_text = re.sub(r'[^А-Я0-9]', '', raw_text.upper())  # Оставляем только буквы и цифры
-        return filtered_text.strip()
+        # Очистка текста от пробелов и лишних символов
+        raw_text = raw_text.replace(" ", "").strip()  # Удаляем пробелы
+        raw_text = re.sub(r'[^А-Я0-9]', '', raw_text)  # Убираем лишние символы
+
+        # Применение маски для поиска формата номера
+        pattern = r'[А-Я][0-9]{3}[А-Я]{2}[0-9]{2}'
+        matches = re.findall(pattern, raw_text.upper())
+
+        #if matches:
+        return matches[0].strip()  # Возвращаем первый подходящий номер
     return None
+
