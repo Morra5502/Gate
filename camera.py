@@ -1,6 +1,5 @@
 import cv2
 
-
 def get_camera_frame(cap):
     """Захватывает кадр с камеры."""
     if not cap.isOpened():

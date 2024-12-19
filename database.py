@@ -2,7 +2,7 @@ import psycopg2
 from psycopg2 import sql
 from config import DB_CONFIG
 
-def check_plate_in_database(license_plate):
+def check_plate_in_database(license_plate): #ебануть под номер тоже и синг респонс хуйня
     conn = None
     cursor = None
     #Проверяет наличие номерного знака в базе данных и логирует событие.
