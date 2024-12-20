@@ -1,5 +1,9 @@
 import logging
+import psycopg2
 from psycopg2 import sql
+
+from config import DB_CONFIG
+
 
 #логгер в консоль
 def setup_logger(log_file="app.log"):
