@@ -626,3 +626,2189 @@
 2024-12-20 00:21:04,963 - ERROR - Ошибка: list index out of range
 2024-12-20 00:21:27,832 - ERROR - Ошибка: list index out of range
 2024-12-20 00:21:34,051 - ERROR - Ошибка: list index out of range
+2024-12-21 13:42:41,901 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:41,912 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:42,296 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:42,306 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:42,440 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:42,450 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:43,432 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:43,441 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:43,706 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:43,717 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:44,298 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:42:44,307 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:11,085 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:11,094 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:11,165 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:11,174 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:11,229 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:11,238 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:14,283 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:14,292 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:18,558 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:18,567 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:43:18,576 - ERROR - Ошибка: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\thresh.cpp:1559: error: (-2:Unspecified error) in function 'double __cdecl cv::threshold(const class cv::_InputArray &,const class cv::_OutputArray &,double,double,int)'
+> THRESH_OTSU mode:
+>     'src_type == CV_8UC1 || src_type == CV_16UC1'
+> where
+>     'src_type' is 16 (CV_8UC3)
+
+2024-12-21 13:53:13,519 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,528 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,580 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,589 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,644 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,724 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,733 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,787 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,796 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,851 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,861 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,916 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,925 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,980 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:13,989 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,044 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,053 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,124 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,133 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,188 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,198 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,252 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,261 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,316 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,325 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,380 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,389 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,444 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,453 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,524 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,533 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,588 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,597 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,652 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,661 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,716 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,725 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,780 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,789 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,844 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,854 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,924 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,933 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,988 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:14,997 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,052 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,061 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,116 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,125 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,180 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,189 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,243 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,252 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,324 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,333 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,388 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,397 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,452 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,461 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,516 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,525 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,580 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,589 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,644 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,724 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,733 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,788 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,796 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,852 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,860 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,916 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,924 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,980 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:15,989 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,044 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,052 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,124 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,133 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,189 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,198 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,252 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,261 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,316 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,325 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,380 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,389 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,444 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,453 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,524 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,533 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,588 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,599 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,662 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,717 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,725 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,782 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,790 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,844 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,853 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,926 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,935 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,990 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:16,999 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,052 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,061 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,116 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,125 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,180 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,189 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,246 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,255 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,324 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,332 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,390 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,399 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,452 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,461 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,518 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,527 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,585 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,596 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,647 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,655 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,725 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,734 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,788 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,804 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,850 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,860 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,916 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,925 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,982 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:17,991 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,044 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,052 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,124 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,132 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,188 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,196 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,252 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,261 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,317 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,325 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,381 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,389 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,445 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,454 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,525 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,534 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,589 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,597 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,661 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,716 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,724 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,782 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,790 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,843 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,852 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,909 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,917 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,989 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:18,997 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,054 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,063 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,116 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,124 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,182 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,190 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,246 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,254 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,308 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,316 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,390 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,399 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,454 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,463 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,517 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,526 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,580 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,588 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,646 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,654 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,708 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,717 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,790 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,798 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,854 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,865 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,917 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,926 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,983 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:19,991 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,047 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,056 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,111 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,120 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,191 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,199 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,253 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,262 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,317 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,326 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,383 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,391 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,447 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,455 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,511 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,520 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,588 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,597 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,652 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,660 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,716 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,725 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,782 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,790 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,846 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,854 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,911 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,920 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,991 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:20,999 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,053 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,060 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,116 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,124 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,183 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,192 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,244 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,252 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,308 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,316 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,390 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,398 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,455 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,463 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,517 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,526 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,582 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,591 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,644 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,711 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,720 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,788 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,796 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,854 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,865 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,917 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,925 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,982 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:21,990 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,046 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,055 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,108 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,116 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,190 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,198 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,253 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,261 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,317 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,328 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,383 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,391 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,447 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,456 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,507 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,516 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,591 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,600 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,661 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,717 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,726 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,783 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,792 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,847 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,854 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,908 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,917 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:22,991 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,000 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,055 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,064 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,117 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,126 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,183 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,192 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,245 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,253 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,309 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,318 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,390 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,399 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,452 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,461 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,516 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,526 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,582 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,591 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,645 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,653 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,709 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,717 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,789 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,798 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,855 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,862 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,917 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,926 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,983 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:23,991 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,047 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,056 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,111 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,119 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,191 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,199 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,255 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,264 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,316 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,326 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,383 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,392 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,447 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,455 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,509 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,518 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,575 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,584 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,655 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,716 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,726 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,735 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,781 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,789 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:53:24,847 - ERROR - Ошибка: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imshow'
+> Overload resolution failed:
+>  - mat is not a numerical tuple
+>  - Expected Ptr<cv::cuda::GpuMat> for argument 'mat'
+>  - Expected Ptr<cv::UMat> for argument 'mat'
+
+2024-12-21 13:55:36,719 - INFO - Распознанный номер: С227НА69
+2024-12-21 13:55:37,011 - INFO - Номер С227НА69 найден в базе. Открываем шлагбаум.
