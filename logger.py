@@ -52,9 +52,9 @@ def logger_to_base(query):
             conn.close()
 
 def car_log(plate):
-    query = f"SELECT add_car_logs({plate})"
+    query = f"SELECT add_car_log('{plate}')"
     logger_to_base(query)
 
 def call_log(plate):
-    query = f"SELECT add_call_logs({plate})"
+    query = f"SELECT add_call_log('{plate}')"
     logger_to_base(query)

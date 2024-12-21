@@ -26,6 +26,7 @@ async def process_camera():
             # Если существует
             if check_license_plate_in_database(license_plate):
                 car_log(license_plate)
+                await asyncio.sleep(5)  # Задержка в 5 секунд (не знаю, стопит ли она оба потока)
 
             # Показ обработанного кадра (опционально)
             cv2.imshow("Camera Feed", frame)

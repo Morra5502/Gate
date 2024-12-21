@@ -31,7 +31,6 @@ def check_in_database(column, value):
 def check_license_plate_in_database(license_plate):
     result = check_in_database("car_number", license_plate)
     if result:
-        car_log(license_plate)
         return True
     return False
 
