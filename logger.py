@@ -29,7 +29,7 @@ def log_event(event_message, level="info"):
     elif level == "warning":
         logger.warning(event_message)
 
-def log_to_database(table, data):
+def logger_to_base(query):
     """
     Универсальная функция для логирования данных в базу.
     """
@@ -40,17 +40,9 @@ def log_to_database(table, data):
         conn = psycopg2.connect(**DB_CONFIG)
         cursor = conn.cursor()
 
-        # Динамическое построение SQL-запроса для вставки данных
-        columns = data.keys()
-        values = tuple(data.values())
-        query = sql.SQL("INSERT INTO {table} ({fields}) VALUES ({placeholders})").format(
-            table=sql.Identifier(table),
-            fields=sql.SQL(', ').join(map(sql.Identifier, columns)),
-            placeholders=sql.SQL(', ').join(sql.Placeholder() * len(columns))
-        )
-        cursor.execute(query, values)
+        cursor.execute(query)
         conn.commit()
-        print(f"Данные успешно добавлены в таблицу {table}.")
+        print("Данные успешно добавлены в таблицу.")
     except Exception as e:
         print(f"Ошибка при работе с базой данных: {e}")
     finally:
@@ -58,3 +50,11 @@ def log_to_database(table, data):
             cursor.close()
         if conn:
             conn.close()
+
+def car_log(plate):
+    query = f"SELECT add_car_logs({plate})"
+    logger_to_base(query)
+
+def call_log(plate):
+    query = f"SELECT add_call_logs({plate})"
+    logger_to_base(query)

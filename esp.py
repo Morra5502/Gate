@@ -15,20 +15,21 @@ def send_command_to_esp(command, esp_url="http://192.168.1.100"):
         print(f"Ошибка связи с ESP: {e}")
 
 async def listen_for_phone_numbers():
-    #Асинхронно прослушиваем UDP для получения номеров телефонов от ESP.
+    """
+    Асинхронно прослушивает UDP-порт для получения номеров телефонов от ESP.
+    Проверяет, подключен ли ESP, и возвращает номер телефона при поступлении сигнала.
+    """
     with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as udp_socket:
         udp_socket.bind(("0.0.0.0", ESP8266_PORT))
-        print("Ожидание номеров телефонов от ESP...")
+        print("Ожидание подключения ESP на порт", ESP8266_PORT)
 
         while True:
-            data, addr = udp_socket.recvfrom(1024)
-            phone_number = data.decode().strip()
-
-            """
-            if phone_number:
-                if phone_number not in AUTHORIZED_PHONE_NUMBERS:
-                    AUTHORIZED_PHONE_NUMBERS.append(phone_number)
-                    print(f"Новый номер телефона добавлен: {phone_number}")
-                    # Если номер телефона разрешен, отправляем команду на ESP
-                    send_command_to_esp("BLINK_LED")
-            """
+            try:
+                udp_socket.settimeout(10)  # Устанавливаем таймаут ожидания 10 секунд
+                data, addr = udp_socket.recvfrom(1024)
+                if data:
+                    phone_number = data.decode().strip()
+                    print(f"Получен телефонный номер: {phone_number} от {addr}")
+                    return phone_number
+            except socket.timeout:
+                print("ESP не подключен или не отправляет данные. Повтор ожидания...")

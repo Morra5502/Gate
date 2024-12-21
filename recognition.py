@@ -41,7 +41,7 @@ def recognize_license_plate(image):
         cv2.waitKey(1)
 
         # Добавлено: поддержка русского языка
-        raw_text = pytesseract.image_to_string(license_plate, config='--psm 8 -l rus tessedit_char_whitelist=АВЕКМНОРСТУХ1234567890') #УМОМ
+        raw_text = pytesseract.image_to_string(license_plate, config='--psm 8 -l rus tessedit_char_whitelist=АВЕКМНОРСТУХ1234567890')
 
         filtered_text = re.sub(r'[^А-Я0-9]', '', raw_text.upper())  # Оставляем только буквы и цифры
         return filtered_text.strip()
