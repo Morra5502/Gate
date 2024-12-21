@@ -1,7 +1,7 @@
 import asyncio
 import cv2
 from camera import get_camera_frame, display_frame
-from recognition import recognize_license_plate
+from recognition import main_rec
 from database import check_plate_in_database
 from esp import send_command_to_esp
 from logger import log_event
@@ -18,13 +18,13 @@ async def main():
     while True:
         try:
             frame = get_camera_frame(cap)
-            license_plate = recognize_license_plate(frame)
+            license_plate = main_rec(frame)
 
             if license_plate and (asyncio.get_event_loop().time() - last_recognition_time > RECOGNITION_DELAY):
                 log_event(f"Распознанный номер: {license_plate}")
                 if check_plate_in_database(license_plate):
                     log_event(f"Номер {license_plate} найден в базе. Открываем шлагбаум.")
-                    send_command_to_esp("OPEN_GATE")
+                    #send_command_to_esp("OPEN_GATE")
                     last_recognition_time = asyncio.get_event_loop().time()
                 else:
                     log_event(f"Номер {license_plate} не найден в базе.", level="warning")
@@ -34,6 +34,7 @@ async def main():
 
         except Exception as e:
             log_event(f"Ошибка: {e}", level="error")
+
     cap.release()
 
 if __name__ == "__main__":

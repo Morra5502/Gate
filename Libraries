@@ -2,4 +2,4 @@ opencv-python
 pytesseract
 psycopg2-binary
 requests
-
+matplotlib
