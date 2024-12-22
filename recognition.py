@@ -8,10 +8,11 @@ def recognize_license_plate(image):
     """Распознает номерной знак с помощью Tesseract."""
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)  # Преобразуем изображение в градации серого
     blurred = cv2.GaussianBlur(gray, (5, 5), 0)  # Убираем шум
-    edged = cv2.Canny(blurred, 30, 60)  # Выделяем контуры
+    edged = cv2.Canny(blurred, 100, 200)  # Выделяем контуры
 
-    # Находим контуры и фильтруем их по соотношению сторон и площади
     contours, _ = cv2.findContours(edged, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+
+
     filtered_contours = []
 
     for contour in contours:
@@ -32,12 +33,20 @@ def recognize_license_plate(image):
             break
 
     if license_plate is not None:
+        """
         # Дополнительная обработка контрастности для букв
         license_plate = cv2.resize(license_plate, (0, 0), fx=2, fy=2)  # Увеличиваем масштаб
         license_plate = cv2.equalizeHist(license_plate)  # Выравнивание гистограммы
         _, license_plate = cv2.threshold(license_plate, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+        """
 
-        cv2.imshow("Thresholded License Plate", license_plate)  # Показываем после пороговой обработки
+        # Morph open to remove noise and invert image
+        kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))
+        opening = cv2.morphologyEx(license_plate, cv2.MORPH_OPEN, kernel, iterations=1)
+        invert = 255 - opening
+
+        #license -> invert
+        cv2.imshow("Thresholded License Plate", invert)  # Показываем после пороговой обработки
         cv2.waitKey(1)
 
         # Добавлено: поддержка русского языка
